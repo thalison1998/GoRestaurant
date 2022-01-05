@@ -23,7 +23,7 @@ A seguir veremos com mais detalhes o que e como precisa ser feito 🚀</p>
 ## 🧪 Execução do projeto
 ```bash
 # clonar repositório
-git clone https://github.com/thalison1998/Weather-app/
+git clone https://github.com/thalison1998/GoRestaurant/
 
 # entrar na pasta GoRestaurant
 cd GoRestaurant
